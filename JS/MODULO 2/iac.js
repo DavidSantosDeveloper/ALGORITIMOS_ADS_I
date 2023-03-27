@@ -47,8 +47,6 @@ function main(){
     const iac=(((quadril)/(altura*(altura**(1/2))))-18);
     console.log(iac)
     // SAIDA
-    calcula_Iac(iac,altura);
-
 }
 
 main()

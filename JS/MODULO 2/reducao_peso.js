@@ -29,7 +29,3 @@ function main(){
         \n  calorias perdidas por dia: ${deficit_diario} kcal/d
         \n  sessoes: ${qtd_sessoes} sessao(oes) 
         `)
-
-}
-
-main();
